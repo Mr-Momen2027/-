@@ -1,0 +1,6 @@
+{
+  "name": "النور المبين",
+  "description": "تطبيق النور المبين للاستماع للقرآن الكريم: الترتيل والتجويد والحفلات والقراءات، مع الاقتباسات الروحانية والتشغيل الصوتي الهادئ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
